@@ -95,7 +95,7 @@ Collection Framework    | STL(Standard template library)
 
 3. In general collection interface is considered as root interface of collection framework.
 
-4. There is no concrid class which implements collection interface directly.
+4. There is no concrete class which implements collection interface directly.
 
 Difference between Collection and Collections
 -------------------------------------------------
